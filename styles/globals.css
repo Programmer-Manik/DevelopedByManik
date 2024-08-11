@@ -1,0 +1,71 @@
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@import "swiper/css/scrollbar";
+
+html {
+  scroll-behavior: smooth;
+}
+@font-face {
+  font-family: "Mabry Pro";
+  src: url("/assets/fonts/MabryPro-Regular.woff2") format("woff2"),
+    url("/assets/fonts/MabryPro-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* image popup */
+img.mfp-img {
+  box-shadow: 0 0 8px rgb(0 0 0 / 60%);
+  position: absolute;
+  padding: 0 !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.mfp-img-container .mfp-close {
+  top: -110px;
+  right: -24px;
+}
+
+.contact-form .form-group .form-control.invalid {
+  border-color: #ff0000;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  fill: var(--main-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: sans-serif;
+}
+p {
+  font-family: Mabry pro, sans-serif;
+}
+
+/* project description */
+.project-description {
+  font-size: 1.1rem;
+  line-height: 1.4;
+  font-family: Mabry pro, sans-serif;
+  margin-bottom: 0.6rem;
+  margin-top: 0.6rem;
+}
+@media (max-width: 991px) {
+  .button_project_mobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+.navbar-collapse {
+  transition: all 0.3s ease-out !important;
+}
