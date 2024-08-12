@@ -17,33 +17,33 @@ const skillsData = [
 const experiencesData = [
   {
     id: 1,
-    date: "April 2022-Present",
+    date: "April 2024-Present",
     designation: "Front-end Software Engineer",
-    company: "Invotyx",
+    company: "universe it institute",
   },
   {
     id: 2,
-    date: "April 2021-Present",
+    date: "April 2022-Present",
     designation: "Freelance Web Developer",
-    company: "Upwork, Fiverr, Freelancer,linkedin",
+    company: " Fiverr, Freelancer,linkedin",
   },
   {
     id: 3,
-    date: "April 2023-Present",
+    date: "jan 2023-Present",
     designation: "MERN Stack Software Engineer",
-    company: "BuildupSol",
+    company: "PeopleNTech",
   },
   {
     id: 4,
-    date: "July 2021- Jan 2022",
-    designation: "Database",
-    company: "AJ Developers",
+    date: "2022- Jan 2023",
+    designation: "Course Database",
+    company: "programming-hero",
   },
   {
     id: 5,
-    date: "May 2019- Aug 2019",
-    designation: "Junior Front-end Developer",
-    company: "BrainArt",
+    date: "May 2023- Aug 2024",
+    designation: "DevOps Developer",
+    company: "Programming Hero Level2",
   },
 ];
 const Skill = () => {

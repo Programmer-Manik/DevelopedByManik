@@ -94,31 +94,7 @@ export const portfolioData = [
       projectLink: "https://wilwinhk-frontend-app.vercel.app/",
     },
   },
-  // {
-  //   id: 6,
-  //   title: "Evanglium",
-  //   subtitle:
-  //     "Multi-Platform NFT Display & Wallet Integration Platform To Showcase NFTs & Digital Art.... ",
-  //   techStack: ["NEXT.JS", "MUI-V5", "MORALIS SDK", "ETHER.JS"],
-  //   type: "react.JS",
-  //   projectDetails: {
-  //     title: "Evanglium",
-  //     detailDiscription:
-  //       "Evanglium is a multi-platform NFT display and create wallet integration platform that allows users to showcase their NFTs and digital art. It also offers a variety of other services, such as a crypto wallet, a crypto debit card, and a crypto exchange. Evanglium is a multi-platform NFT display and create wallet integration platform that allows users to showcase their NFTs and digital art.",
-  //   },
-  // },
-  // {
-  //   id: 7,
-  //   title: "SmartNet",
-  //   subtitle: "Communication & Contact Sharing Platform for Businesses.... ",
-  //   techStack: ["REACT.JS", "SEMANTIC UI", "TWILIO SDK"],
-  //   type: "MERN",
-  //   projectDetails: {
-  //     title: "SmartNet",
-  //     detailDiscription:
-  //       "SmartNet is a communication and contact sharing platform for businesses. It allows users to create groups, send messages, and share contacts with ease. SmartNet is a communication and contact sharing platform for businesses. It allows users to create groups, send messages, and share contacts with ease.",
-  //   },
-  // },
+  
   {
     id: 9,
     title: "Alnoor Mart",
@@ -135,86 +111,5 @@ export const portfolioData = [
       isWithCode: true,
     },
   },
-  {
-    id: 10,
-    title: "Alnoor Herbal",
-    subtitle: "Herbal Products  & Supplements to Boost Immunity.... ",
-    techStack: ["WORDPRESS", "ELEMENTOR"],
-    type: "wordPress",
-    backgroundImage: "alnoor-herbal-background",
-    projectDetails: {
-      title: "Alnoor Herbal",
-      detailDiscription:
-        "Alnoor Herbal is a herbal products and supplements to boost immunity. It allows users to browse products, add them to their cart, and checkout with ease. Alnoor Herbal is a herbal products and supplements to boost immunity. It allows users to browse products, add them to their cart, and checkout with ease.",
-      sliderImages: ["alnoor-herbal1", "alnoor-herbal2"],
-      projectLink: "https://alnoorherbal.com/",
-      isWithCode: true,
-    },
-  },
-  {
-    id: 11,
-    title: "Alnoor International",
-    subtitle: "Real Estate Listings Platform for International Buyers.... ",
-    techStack: ["WORDPRESS", "WP-BAKERY", "API INTEGRATION"],
-    type: "wordPress",
-    backgroundImage: "alnoor-international-background",
-    projectDetails: {
-      title: "Alnoor International",
-      detailDiscription:
-        "Alnoor International is a real estate listings platform for international buyers. It allows users to browse properties, add them to their cart, and checkout with ease. Alnoor International is a real estate listings platform for international buyers. It allows users to browse properties, add them to their cart, and checkout with ease.",
-      sliderImages: ["alnoor-international1"],
-      projectLink: "https://www.alnoorinternationalimpex.com/",
-      isWithCode: true,
-    },
-  },
-  // {
-  //   id: 12,
-  //   title: "LMS (Teacher Evaluation System Module)",
-  //   subtitle:
-  //     "Educational Management & Evaluation System for Teachers, Students & Admin.... ",
-  //   techStack: ["REACT.JS", "MUI-V4", "REDUX"],
-  //   type: "react.JS",
-  //   projectDetails: {
-  //     title: "LMS (Teacher Evaluation System Module)",
-  //     detailDiscription:
-  //       "LMS (Teacher Evaluation System Module) is an educational management and evaluation system for teachers, students, and admin. It allows users to create groups, send messages, and share contacts with ease. LMS (Teacher Evaluation System Module) is an educational management and evaluation system for teachers, students, and admin. It allows users to create groups, send messages, and share contacts with ease.",
-  //   },
-  // },
-  // {
-  //   id: 13,
-  //   title: "Small Survival",
-  //   subtitle:
-  //     "Online Course Directory for Students & Teachers to earn money.... ",
-  //   techStack: ["NEXT.JS", "SEMANTIC-UI", "REDUX"],
-  //   type: "react.JS",
-  //   projectDetails: {
-  //     title: "Small Survival",
-  //     detailDiscription:
-  //       "Small Survival is an online course directory for students and teachers to earn money. It allows users to browse courses, add them to their cart, and checkout with ease. Small Survival is an online course directory for students and teachers to earn money. It allows users to browse courses, add them to their cart, and checkout with ease.Its still in development phase.",
-  //   },
-  // },
-  // {
-  //   id: 14,
-  //   title: "Tech Survival",
-  //   subtitle: "Global & Local Tech News Portal for Tech Enthusiasts.... ",
-  //   techStack: ["NEXT.JS", "SEMANTIC-UI", "RAPID API SDK"],
-  //   type: "react.JS",
-  //   projectDetails: {
-  //     title: "Tech Survival",
-  //     detailDiscription:
-  //       "Tech Survival is a global and local tech news portal for tech enthusiasts. It allows users to browse news, add them to their cart, and checkout with ease. Tech Survival is a global and local tech news portal for tech enthusiasts. It allows users to browse news, add them to their cart, and checkout with ease.",
-  //   },
-  // },
-  // {
-  //   id: 15,
-  //   title: "Quiz App",
-  //   subtitle: "Interactive Quiz Application for Students.... ",
-  //   techStack: ["HTML", "CSS", "JS"],
-  //   type: "withoutFramework",
-  //   projectDetails: {
-  //     title: "Quiz App",
-  //     detailDiscription:
-  //       "Quiz App is an interactive quiz application for students. It allows users to browse questions, add them to their cart, and checkout with ease. Quiz App is an interactive quiz application for students. It allows users to browse questions, add them to their cart, and checkout with ease.",
-  //   },
-  // },
+  
 ];
